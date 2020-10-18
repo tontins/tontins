@@ -1,7 +1,7 @@
 ## Hello I'm Andrea Tontini 👋
 Computer Engineer student at [University of Ferrara](http://www.unife.it/). I'm currently studying Artificial Intelligence and Machine Learning.
 
-![](https://visitor-badge.laobi.icu/badge?page_id=tontins.tontins) [![Github](https://img.shields.io/github/followers/tontins?label=Followers&logo=Github)](https://github.com/tontins)
+![](https://visitor-badge.laobi.icu/badge?page_id=atontini.atontini) [![Github](https://img.shields.io/github/followers/atontini?label=Followers&logo=Github)](https://github.com/atontini)
 
 <p  align="center">
   <img src="https://raw.githubusercontent.com/atontini/atontini/main/profile-summary-card-output/github/0-profile-details.svg" alt="github stats"></br>
