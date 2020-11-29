@@ -7,10 +7,7 @@ Computer Engineer student at [University of Ferrara](http://www.unife.it/). I'm 
   <img src="https://raw.githubusercontent.com/atontini/atontini/main/profile-summary-card-output/github/0-profile-details.svg" alt="github stats"></br>
   <img src="https://raw.githubusercontent.com/atontini/atontini/main/profile-summary-card-output/github/1-repos-per-language.svg">
   <img src="https://raw.githubusercontent.com/atontini/atontini/main/profile-summary-card-output/github/2-most-commit-language.svg"></br></p>
-
-## Repository I have contributed to
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=josephmisiti&repo=awesome-machine-learning)](https://github.com/josephmisiti/awesome-machine-learning)
-
+  
 ---
 
 <p  align="center">
